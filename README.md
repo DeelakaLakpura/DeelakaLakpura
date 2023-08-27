@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Deelaka+Lakpura!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤟;+I'm+Deelaka+Lakpura!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Sri Lanka 🇱🇰</h3>
@@ -13,7 +13,7 @@
 
 -  💻 Software Application & web application developer using **C#,asp.net.**
 
-- 🌱 I’m currently learning **AI and machine learning**
+- 🌱 I’m currently learning **ThreeJS and Solidity**
 
 - 📫 How to reach me **deelaka.lakpura94@gmail.com**
  </div>
@@ -33,15 +33,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,cs,github,javascript,typescript,express,firebase,mongodb,c,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=java,cs,github,javascript,typescript,express,firebase,threejs,solidity,mongodb,c,dotnet" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
 </div>
 
 <br/>
-<hr/>
 
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -55,8 +52,5 @@
 <br/><br/>
 <hr/>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
 
 <br/>
