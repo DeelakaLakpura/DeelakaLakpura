@@ -3,19 +3,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤟;+I'm+Deelaka+Lakpura!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">undergraduate student at the University of Plymouth, UK 🎓</h3>
 
 <br/>
 
-<div >
- 
-- 📱 mobile application developer using **java**
+💻 I'm passionate about programming and currently, I'm exploring the world of software development through languages like Java ☕, C# ⚙️, and PHP 🐘. I believe in the power of coding to transform ideas into reality.
 
--  💻 Software Application & web application developer using **C#,asp.net.**
+🌟 Here's what you can expect from my GitHub:
+- Java projects that showcase my problem-solving skills and love for clean code.
+- C# projects that demonstrate my enthusiasm for application development.
+- PHP projects reflecting my web development journey.
 
-- 🌱 I’m currently learning **ThreeJS and Solidity**
+🚀 Join me on this exciting coding adventure, and together, we can build something amazing! Feel free to explore my repositories and connect with me. Let's code and create together! 🌐
 
-- 📫 How to reach me **deelaka.lakpura94@gmail.com**
+
  </div>
  
 <div align="center"> 
