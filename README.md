@@ -2,11 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🤟;+I'm+Deelaka+Lakpura!;" />
 </h1>
-<div align="center">
-  <a href="https://github.com/deelakalakpura">
-    <img src="https://hits.sh/github.com/deelakalakpura.svg?style=for-the-badge&label=Profile+Views&color=gray&labelColor=black" alt="Profile View Count" />
-  </a>
-</div>
+
 
 <h3 align="center">undergraduate student at the University of Plymouth, UK 🎓</h3>
 
