@@ -4,7 +4,7 @@
 </h1>
 
 
-<h3 align="center">undergraduate student at the University of Plymouth, UK 🎓</h3>
+<h3 align="center">BSc (Hons) Software Engineering Graduate – University of Plymouth, UK 🎓</h3>
 
 <br/>
 
